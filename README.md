@@ -1,4 +1,4 @@
-###`console.log("i'm beatiful")`
+### `console.log("i'm beatiful")`
 
 <!--
 **suspecttt/suspecttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
