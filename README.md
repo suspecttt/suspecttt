@@ -1,6 +1,4 @@
-# Hey dude, I'm so beatiful
-## My name is Lucas
-### Just it
+###`console.log("i'm beatiful")`
 
 <!--
 **suspecttt/suspecttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
